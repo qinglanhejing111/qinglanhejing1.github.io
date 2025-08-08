@@ -3,4 +3,4 @@ Allow: /
 Disallow: /private/
 Disallow: /tmp/
 
-Sitemap: https://github.com/qinglanhejing111/qinglanhejing1.github.io/new/main/sitemap.xml
+Sitemap: https://qinglanhejing111.github.io/qinglanhejing1.github.io/new/main/sitemap.xml
