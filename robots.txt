@@ -2,5 +2,13 @@ User-agent: *
 Allow: /
 Disallow: /private/
 Disallow: /tmp/
+# 允许Googlebot访问所有内容
+User-agent: Googlebot
+Allow: /
+
+# 阻止其他爬虫访问管理区域
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
 
 Sitemap: https://qinglanhejing111.github.io/qinglanhejing1.github.io/new/main/sitemap.xml
